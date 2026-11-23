@@ -9,7 +9,8 @@ Classifies the emotion in a short speech clip (angry, disgust, fear, happy, neut
 ---
 <img width="1918" height="999" alt="image" src="https://github.com/user-attachments/assets/5a02f87d-0caa-49b9-859e-a1741ee950c5" />
 <img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/d0a84ee6-6eae-46b2-8966-fa5e7b4fc2f8" />
-## live url:https://outlined-missile-fellowship-watt.trycloudflare.com/
+# live url:https://outlined-missile-fellowship-watt.trycloudflare.com/
+
 ## Features
 - Upload a WAV file or record from the microphone and get a predicted emotion
 - Side-by-side **SVM vs CNN** predictions with per-emotion probabilities
